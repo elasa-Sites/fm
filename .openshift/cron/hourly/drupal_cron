@@ -1,0 +1,2 @@
+cd ${OPENSHIFT_REPO_DIR}php
+${OPENSHIFT_REPO_DIR}vendor/bin/drush core-cron
